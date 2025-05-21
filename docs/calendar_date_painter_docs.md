@@ -8,7 +8,7 @@ The `getCellColor` function determines the appropriate color code for a timeshee
 punchindelta -1 is considered as early in
 punchoutdelta -1 is considered as early out
 
-### Function Signature
+### Function Call
 ```dart
 Color? getCellColor({
   required String label, 
